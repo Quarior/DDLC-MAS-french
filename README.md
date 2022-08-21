@@ -8,3 +8,6 @@ La traduction est incomplète, et une partie est encore en majorité fait par un
 
 ## Installation
 Placer tout simplement le dossier "tl" dans le dossier "game".
+
+## Notes
+Ce sous-mod pourrait vous être utile pour changer de langue : "switch_tl" (https://github.com/Quarior/ddlc-mas-switch_tl)
