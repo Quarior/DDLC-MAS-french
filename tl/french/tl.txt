@@ -1,0 +1,2 @@
+#translation;text_font# # Don't delete this line
+Français;DejaVuSans.ttf
